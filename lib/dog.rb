@@ -1,3 +1,3 @@
 def Dog 
-  Dog =  lib/dog.rb
+  # Dog =  lib/dog.rb
 end
